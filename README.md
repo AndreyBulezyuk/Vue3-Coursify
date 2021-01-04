@@ -1,5 +1,8 @@
 # coursify
 
+# Vue.js 3 Course from German IT Academy
+https://bit.ly/vuejs3
+
 ## Project setup
 ```
 npm install
